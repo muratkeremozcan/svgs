@@ -1,7 +1,8 @@
 svg {
-    height: auto;
     width: 30%;
+    height: auto;
 }
+
 .background-circle {
     fill: #068C70;
     stroke: #FFFFFF;
@@ -63,3 +64,8 @@ text {
     stroke-width: 4px;
 }
 
+path {
+    fill: none;
+    stroke: #FFFFFF;
+    stroke-width: 2px;
+}
